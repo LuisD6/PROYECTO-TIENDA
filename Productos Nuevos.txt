@@ -1,0 +1,91 @@
+[
+    {
+        "nombre": "Proyector Portátil",
+        "descripcion": "Proyector compacto y portátil con resolución Full HD y conexión inalámbrica.",
+        "precio": "5500.00",
+        "stock": 15,
+        "categoria": "Electrónica",
+        "imagen": "img/proyector-portatil.jpeg"
+    },
+    {
+        "nombre": "Reloj Inteligente",
+        "descripcion": "Reloj inteligente con monitor de actividad, notificaciones y GPS incorporado.",
+        "precio": "3500.00",
+        "stock": 25,
+        "categoria": "Electrónica",
+        "imagen": "img/reloj-inteligente.jpeg"
+    },
+    {
+        "nombre": "Cámara Deportiva 4K",
+        "descripcion": "Cámara compacta 4K resistente al agua, ideal para deportes extremos.",
+        "precio": "4500.00",
+        "stock": 12,
+        "categoria": "Electrónica",
+        "imagen": "img/camara-deportiva-4k.jpeg"
+    },
+    {
+        "nombre": "Lámpara LED RGB",
+        "descripcion": "Lámpara LED con control remoto, ideal para ambientes gaming con luz RGB ajustable.",
+        "precio": "1000.00",
+        "stock": 30,
+        "categoria": "Muebles",
+        "imagen": "img/lampra-led-rgb.jpeg"
+    },
+    {
+        "nombre": "Cargador Inalámbrico Rápido",
+        "descripcion": "Cargador inalámbrico rápido con soporte para teléfonos con carga Qi.",
+        "precio": "800.00",
+        "stock": 40,
+        "categoria": "Accesorios",
+        "imagen": "img/cargador-inalambrico.jpeg"
+    },
+    {
+        "nombre": "Teclado Mecánico TKL",
+        "descripcion": "Teclado mecánico compacto tipo TKL con retroiluminación y switches ópticos.",
+        "precio": "1500.00",
+        "stock": 22,
+        "categoria": "Periféricos",
+        "imagen": "img/teclado-mecanico-tkl.jpeg"
+    },
+    {
+        "nombre": "Silla de Oficina Ejecutiva",
+        "descripcion": "Silla de oficina ejecutiva con soporte lumbar, reposabrazos ajustables y asiento de espuma viscoelástica.",
+        "precio": "5500.00",
+        "stock": 18,
+        "categoria": "Muebles",
+        "imagen": "img/silla-oficina-ejecutiva.jpeg"
+    },
+    {
+        "nombre": "Mochila para Laptop",
+        "descripcion": "Mochila resistente al agua con compartimentos acolchonados para laptop y accesorios.",
+        "precio": "1200.00",
+        "stock": 35,
+        "categoria": "Accesorios",
+        "imagen": "img/mochila-laptop.jpeg"
+    },
+    {
+        "nombre": "Router Wi-Fi 6",
+        "descripcion": "Router de alta velocidad con soporte para Wi-Fi 6 y múltiples dispositivos conectados simultáneamente.",
+        "precio": "1800.00",
+        "stock": 25,
+        "categoria": "Electrónica",
+        "imagen": "img/router-wifi6.jpeg"
+    },
+    {
+        "nombre": "Micrófono USB",
+        "descripcion": "Micrófono USB profesional para streaming, grabación y videollamadas con calidad de sonido HD.",
+        "precio": "1600.00",
+        "stock": 20,
+        "categoria": "Audio",
+        "imagen": "img/microfono-usb.jpeg"
+    },
+    {
+        "nombre": "Escritorio Gamer",
+        "descripcion": "Escritorio de gran tamaño con diseño ergonómico, ideal para juegos. Cuenta con espacio amplio para múltiples monitores, estante para teclado y soporte para auriculares.",
+        "precio": "4500.00",
+        "stock": 15,
+        "categoria": "Muebles",
+        "imagen": "img/escritorio-gamer.jpeg"
+    }
+
+]
